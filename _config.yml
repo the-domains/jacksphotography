@@ -1,0 +1,28 @@
+name: jacksphotography
+favicon: null
+layout_spectrum: 0.6473242407664657
+typography_spectrum: 0.3462450762744993
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8344998068641871
+  lightness: 0.91236587963067
+  saturation: 0.9634698075242341
+  rhythmicContrast: 0.3482528564054519
+purpose: []
